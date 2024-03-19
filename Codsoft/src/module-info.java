@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author q
+ *
+ */
+module NumberGame {
+}
